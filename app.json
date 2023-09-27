@@ -23,26 +23,26 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above."
+          "description": "vegetafilestorer_bot"
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "9989771"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "baede4a3286fa45ff9cf08f6d72a7d9b"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "6317817140:AAHI4EUkWxQXY3fAAsWeiwtQFcV59zpKERI"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "-1001626491498"
           
       },
       "DATABASE_URL": {
           "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID  like 1234509"
+          "description": "1619567493"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
@@ -55,7 +55,7 @@
           
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  adarsh."
+          "description": "K4K4ROT"
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
